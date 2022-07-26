@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.caresoft.clinicapp.Physican.java&apos; to &apos;Physician.java&apos;&#x0A;- Original project: &apos;caresoft&apos;&#x0A;- Original element: &apos;com.caresoft.clinicapp.Physican.java&apos;&#x0A;- Renamed element: &apos;com.caresoft.clinicapp.Physician.java&apos;" description="Rename compilation unit &apos;Physican.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.caresoft.clinicapp{Physican.java" name="Physician.java" references="false" stamp="1658774939020" version="1.0"/>
+</session>
